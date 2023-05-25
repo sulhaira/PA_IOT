@@ -29,4 +29,13 @@ Iot MQTT Panel sebagai kontroling dan monitoring, dan Blynk sebagai Monitoring.
 - kabel jumper
 - resistor
 - LED
-## Board Schematic (Dirancang sendiri menggunakan Wokwi / Tinkercad / Fritzing )
+-
+## Board Schematic 
+berikut adalah foto rangkaian publisher dan subscriber dirancang menggunakan Wokwi
+<p align="center">
+  <img src="publisher.PNG" width="350" title="publisher">
+</p>
+<p align="center">
+  <img src="subscriber.PNG" width="350" title="subscriber">
+</p>
+
